@@ -1,0 +1,2 @@
+admin,d033e22ae348aeb5660fc2140aec35850c4da997,admin
+manager,1a8565a9dc72048ba03b4156be3e569f22771f23,manager
